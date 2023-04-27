@@ -27,4 +27,4 @@ https://github.com/rajendrasarak90/Issue-Tracker
 
 # Hosted URL
 
-https://dem00000.herokuapp.com/
+https://issuetrack-rajendra.onrender.com/

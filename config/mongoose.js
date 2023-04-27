@@ -1,4 +1,4 @@
-// require('dotenv').config();
+require('dotenv').config();
 //require the library
 const mongoose = require('mongoose');
 

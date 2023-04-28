@@ -4,7 +4,7 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 # Hosted URL
 
-https://issuetrack-rajendra.onrender.com/
+https://issuetracker-rajendrasarak.onrender.com/
 
 # How to use ?
 

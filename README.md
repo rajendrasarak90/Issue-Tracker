@@ -2,6 +2,10 @@
 
 A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
 
+# Hosted URL
+
+https://issuetrack-rajendra.onrender.com/
+
 # How to use ?
 
 Run this command in your GitHub CLI
@@ -23,8 +27,3 @@ https://github.com/rajendrasarak90/Issue-Tracker
 -User can track the issue by name or description.
 
 -Used Bootstrap for neat UI.
-
-
-# Hosted URL
-
-https://issuetrack-rajendra.onrender.com/

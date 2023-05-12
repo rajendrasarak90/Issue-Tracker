@@ -1,22 +1,24 @@
-# Ninja-Bug-Tracker
+## Ninja-Bug-Tracker
 
 A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
 
-# Hosted URL
-
+## Hosted URL:
 https://issuetracker-rajendrasarak.onrender.com/
 
-# How to use ?
+## Video Explanation: 
+https://youtu.be/oL3lpHgND7o
+
+## How to use ?
 
 Run this command in your GitHub CLI
 
 - gh repo clone rajendrasarak90/Issue-Tracker
 
-# or use the URL
+## or use the URL
 
 https://github.com/rajendrasarak90/Issue-Tracker
 
-# Features
+## Features
 
 -User can create a Project.
 

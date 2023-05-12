@@ -8,6 +8,9 @@ https://issuetracker-rajendrasarak.onrender.com/
 ## Video Explanation: 
 https://youtu.be/oL3lpHgND7o
 
+## Teck Tools Used:
+HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB.
+
 ## How to use ?
 
 Run this command in your GitHub CLI
